@@ -1,4 +1,4 @@
-# Horizeon Companpy Website
+# Horiseon Companpy Website
 
 ## Description
 this website has been edited to cater to any one uning assiting programs such an screen readers.
